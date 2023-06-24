@@ -1,2 +1,2 @@
 # The-Banking-System
-Here coustmer can transfer money from his account to another account
+Here coustmer can transfer money from there account to another account
